@@ -40,7 +40,7 @@
     align-items: center;
     cursor: pointer;
     text-decoration: none;
-    font-size: 6rem; 
+    font-size: 5rem; 
 }
 
 .fa-gem {
@@ -150,8 +150,12 @@
     height: 80%;
     width: 80%;
 }
+#main__img2 {
+    height: 30%;
+    width: 30%;
+}
 
-#center {
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
